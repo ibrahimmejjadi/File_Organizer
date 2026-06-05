@@ -6,7 +6,7 @@ A Python automation tool that instantly sorts a messy folder into organized subf
 
 ## 💡 The Real Scenario
 
-You're an IT administrator. Your manager asks you to find the **employee database file** from a shared folder.
+You're an IT administrator. Your manager asks you to find the **database file** from a shared folder.
 
 You open the folder and find **100+ mixed files**:
 
@@ -15,14 +15,14 @@ photo_1.jpg, movie.avi, script.py, backup.zip, song.mp3,
 report.pdf, employees.db, animation.swift, archive.rar ...
 ```
 
-❌ **Without the organizer** — you scroll through 100+ files trying to spot `employees.db`. Takes minutes. Easy to miss.
+❌ **Without the organizer** — you scroll through 100+ files trying to spot `database file`. Takes minutes. Easy to miss.
 
 ✅ **With the organizer** — run the script. Files are sorted instantly:
 
 ```
 My_Files/
 ├── Database/
-│   └── employees.db   ← found in 1 second
+│   └── database file   ← found in 1 second
 ├── Images/
 ├── Videos/
 ├── Documents/
@@ -35,7 +35,7 @@ My_Files/
 ## 🚀 How to Use
 
 ### Step 1 — Generate the demo folder
-Run `Creating_files.py` to instantly create 100+ mixed files including the employee database:
+Run `Creating_files.py` to instantly create 100+ mixed files:
 ```bash
 python Creating_files.py
 ```
