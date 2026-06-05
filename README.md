@@ -8,14 +8,14 @@ A Python automation tool that instantly sorts a messy folder into organized subf
 
 You're an IT administrator. Your manager asks you to find the **database file** from a shared folder.
 
-You open the folder and find **100+ mixed files**:
+You open the folder and find **941 mixed files**:
 
 ```
 photo_1.jpg, movie.avi, script.py, backup.zip, song.mp3,
 report.pdf, employees.db, animation.swift, archive.rar ...
 ```
 
-❌ **Without the organizer** — you scroll through 100+ files trying to spot `database file`. Takes minutes. Easy to miss.
+❌ **Without the organizer** — you scroll through 941 files trying to spot the database file. Takes forever. Easy to miss.
 
 ✅ **With the organizer** — run the script. Files are sorted instantly:
 
@@ -35,21 +35,26 @@ My_Files/
 ## 🚀 How to Use
 
 ### Step 1 — Generate the demo folder
-Run `Creating_files.py` to instantly create 100+ mixed files:
+Run `Creating_files.py` to instantly create 941 mixed files:
 ```bash
 python Creating_files.py
 ```
 
-### Step 2 — Your manager asks you to contact the HR recruiter to send them an urgent email. The file is somewhere in this folder as database — find it, open it, and look up Doroteo Arnaiz's email.
-Open `My_Files/` — good luck finding it among 100+ files.
+### Step 2 — The challenge
+Your manager asks you to contact the HR recruiter urgently. The database is somewhere in that folder — find it, open it, and look up **Doroteo Arnaiz's email**.
+
+Open `Generated_Files/` — good luck finding it among 941 files. 😅
 
 ### Step 3 — Run the organizer
 ```bash
 python File_organizer.py
 ```
 
-### Step 4 — Find Doroteo Arnaiz's email now.
-Open `My_Files/Database/` — it's right there.
+### Step 4 — Try again
+Open `Generated_Files/Database/` — it's right there. 🎯
+
+### Step 5 — 🔐 Bonus challenge
+Found the email? Send a message to **Doroteo Arnaiz** and mention the **passkey** you found in the database. Let's see if you really looked closely. 👀
 
 ---
 
