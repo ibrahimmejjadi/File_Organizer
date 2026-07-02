@@ -52,10 +52,10 @@ Open `Generated_Files/` — good luck finding it among 941 files. 😅
 python File_organizer.py
 ```
 
-### Step 4 — Try again
+### Step 4: Try again
 Open `Generated_Files/Database/` — it's right there. 🎯
 
-### Step 5 — 🔐 Bonus challenge
+### Step 5: 🔐 Bonus challenge
 Found the email? Send a message to **Doroteo Arnaiz** and mention the **passkey** you found in the database. Let's see if you really looked closely. 👀
 
 💡 To open the database file, you'll need a tool like SQLite Viewer (VS Code extension) — just search for it in the Extensions tab and install it.
@@ -99,8 +99,8 @@ To enable it, uncomment these two lines in `File_organizer.py`:
 ## 🛠️ Built With
 
 - Python 3
-- `os` module — for reading and navigating the file system
-- `shutil` module — for moving files between folders
+- `os` module; for reading and navigating the file system
+- `shutil` module; for moving files between folders
 
 ---
 
