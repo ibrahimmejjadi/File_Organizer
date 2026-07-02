@@ -1,6 +1,6 @@
 # 🗂️ File Organizer — Python Automation
 
-A Python automation tool that instantly sorts a messy folder into organized subfolders by file extension — built using the `os` and `shutil` libraries.
+A Python automation tool that instantly sorts a messy folder into organized subfolders by file extension - built using the `os` and `shutil` libraries.
 
 ---
 
@@ -34,20 +34,20 @@ My_Files/
 
 ## 🚀 How to Use
 
-### Step 1 — Generate the demo folder
+### Step 1: Generate the demo folder
 Run `Creating_files.py` to instantly create 941 mixed files:
 ```bash
 python Creating_files.py
 ```
 
-### Step 2 — The challenge
+### Step 2: The challenge
 Your manager asks you to contact the HR recruiter urgently. The database is somewhere in that folder — find it, open it, and look up **Doroteo Arnaiz's email**.
 
 
 
 Open `Generated_Files/` — good luck finding it among 941 files. 😅
 
-### Step 3 — Run the organizer
+### Step 3: Run the organizer
 ```bash
 python File_organizer.py
 ```
