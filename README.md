@@ -4,6 +4,11 @@ A Python automation tool that instantly sorts a messy folder into organized subf
 
 ---
 
+## 📺 Demo Video
+▶️ [Watch on YouTube](https://youtu.be/pLWtr3T1M9A)
+
+---
+
 ## 💡 The Real Scenario
 
 You're an IT administrator. Your manager asks you to find the **database file** from a shared folder.
