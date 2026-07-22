@@ -109,11 +109,10 @@ To enable it, uncomment these two lines in `File_organizer.py`:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
 
 🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
 
 📧 Email: ibrahim.mejjadi@gmail.com
-
